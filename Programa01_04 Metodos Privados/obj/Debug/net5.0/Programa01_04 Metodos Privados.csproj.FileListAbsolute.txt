@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\bin\Debug\net5.0\Programa01_04 Metodos Privados.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\refint\Programa01_04 Metodos Privados.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\Programa01_04 Metodos Privados.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_04 Metodos Privados\obj\Debug\net5.0\ref\Programa01_04 Metodos Privados.dll

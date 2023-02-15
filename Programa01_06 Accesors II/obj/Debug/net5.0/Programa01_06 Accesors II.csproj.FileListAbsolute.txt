@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\bin\Debug\net5.0\Programa01_06 Accesors II.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\refint\Programa01_06 Accesors II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\Programa01_06 Accesors II.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_06 Accesors II\obj\Debug\net5.0\ref\Programa01_06 Accesors II.dll

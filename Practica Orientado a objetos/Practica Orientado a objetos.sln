@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica Orientado a objetos", "Practica Orientado a objetos.csproj", "{87EA5B69-91CC-4344-95FB-61618D2269C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otras Practicas", "..\Otras Practicas\Otras Practicas.csproj", "{EF22651D-9B10-4EDF-A594-9FE0337ECDFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87EA5B69-91CC-4344-95FB-61618D2269C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87EA5B69-91CC-4344-95FB-61618D2269C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87EA5B69-91CC-4344-95FB-61618D2269C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87EA5B69-91CC-4344-95FB-61618D2269C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF22651D-9B10-4EDF-A594-9FE0337ECDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF22651D-9B10-4EDF-A594-9FE0337ECDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF22651D-9B10-4EDF-A594-9FE0337ECDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF22651D-9B10-4EDF-A594-9FE0337ECDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53731499-9CFA-4786-9458-4C8CA5812B94}
+	EndGlobalSection
+EndGlobal

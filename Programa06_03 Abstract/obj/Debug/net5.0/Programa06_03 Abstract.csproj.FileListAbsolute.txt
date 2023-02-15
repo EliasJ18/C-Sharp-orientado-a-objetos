@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\bin\Debug\net5.0\Programa06_03 Abstract.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\refint\Programa06_03 Abstract.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\Programa06_03 Abstract.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_03 Abstract\obj\Debug\net5.0\ref\Programa06_03 Abstract.dll

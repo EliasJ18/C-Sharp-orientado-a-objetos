@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\bin\Debug\net5.0\Programa05_02 Composición.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\refint\Programa05_02 Composición.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\Programa05_02 Composición.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02 Composición\obj\Debug\net5.0\ref\Programa05_02 Composición.dll

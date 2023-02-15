@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\bin\Debug\net5.0\Otras Practicas.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\refint\Otras Practicas.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\Otras Practicas.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Otras Practicas\obj\Debug\net5.0\ref\Otras Practicas.dll

@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\bin\Debug\net5.0\Programa02_01 Sobrecarga de metodos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\refint\Programa02_01 Sobrecarga de metodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\Programa02_01 Sobrecarga de metodos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_01 Sobrecarga de metodos\obj\Debug\net5.0\ref\Programa02_01 Sobrecarga de metodos.dll

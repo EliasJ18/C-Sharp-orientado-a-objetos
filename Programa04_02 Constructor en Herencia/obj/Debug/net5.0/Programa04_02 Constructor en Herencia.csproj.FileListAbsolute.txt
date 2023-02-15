@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\bin\Debug\net5.0\Programa04_02 Constructor en Herencia.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\refint\Programa04_02 Constructor en Herencia.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\Programa04_02 Constructor en Herencia.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_02 Constructor en Herencia\obj\Debug\net5.0\ref\Programa04_02 Constructor en Herencia.dll

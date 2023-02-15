@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\bin\Debug\net5.0\Programa05_01 Agregacion.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\refint\Programa05_01 Agregacion.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\Programa05_01 Agregacion.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_01 Agregacion\obj\Debug\net5.0\ref\Programa05_01 Agregacion.dll

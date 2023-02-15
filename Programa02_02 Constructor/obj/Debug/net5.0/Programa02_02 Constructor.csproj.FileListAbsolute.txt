@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\bin\Debug\net5.0\Programa02_02 Constructor.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\refint\Programa02_02 Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\Programa02_02 Constructor.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_02 Constructor\obj\Debug\net5.0\ref\Programa02_02 Constructor.dll

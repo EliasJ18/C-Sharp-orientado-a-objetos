@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\bin\Debug\net5.0\Programa03_02 Métodos Estáticos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\refint\Programa03_02 Métodos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\Programa03_02 Métodos Estáticos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa03_02 Métodos Estáticos\obj\Debug\net5.0\ref\Programa03_02 Métodos Estáticos.dll

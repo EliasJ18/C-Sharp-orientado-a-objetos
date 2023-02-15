@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\bin\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\refint\Programa01_07 Propiedades, Get, Set y Value.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\Programa01_07 Propiedades, Get, Set y Value.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_07 Propiedades, Get, Set y Value\obj\Debug\net5.0\ref\Programa01_07 Propiedades, Get, Set y Value.dll

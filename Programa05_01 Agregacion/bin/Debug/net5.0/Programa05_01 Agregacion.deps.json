@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Programa05_01 Agregacion/1.0.0": {
+        "runtime": {
+          "Programa05_01 Agregacion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programa05_01 Agregacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

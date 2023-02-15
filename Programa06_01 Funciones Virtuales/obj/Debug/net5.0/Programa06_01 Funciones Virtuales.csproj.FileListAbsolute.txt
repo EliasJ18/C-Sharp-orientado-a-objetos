@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\bin\Debug\net5.0\Programa06_01 Funciones Virtuales.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\refint\Programa06_01 Funciones Virtuales.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\Programa06_01 Funciones Virtuales.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_01 Funciones Virtuales\obj\Debug\net5.0\ref\Programa06_01 Funciones Virtuales.dll

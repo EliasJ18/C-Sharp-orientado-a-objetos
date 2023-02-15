@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\bin\Debug\net5.0\Programa05_02b Composición II.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\refint\Programa05_02b Composición II.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\Programa05_02b Composición II.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa05_02b\obj\Debug\net5.0\ref\Programa05_02b Composición II.dll

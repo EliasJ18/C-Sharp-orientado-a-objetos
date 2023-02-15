@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\bin\Debug\net5.0\Programa02_04 Atributos Estáticos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\refint\Programa02_04 Atributos Estáticos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\Programa02_04 Atributos Estáticos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_04 Atributos Estáticos\obj\Debug\net5.0\ref\Programa02_04 Atributos Estáticos.dll

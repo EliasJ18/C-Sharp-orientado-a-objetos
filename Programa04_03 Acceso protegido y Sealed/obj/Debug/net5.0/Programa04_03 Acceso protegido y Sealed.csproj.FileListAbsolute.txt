@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\bin\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\refint\Programa04_03 Acceso protegido y Sealed.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\Programa04_03 Acceso protegido y Sealed.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_03 Acceso protegido y Sealed\obj\Debug\net5.0\ref\Programa04_03 Acceso protegido y Sealed.dll

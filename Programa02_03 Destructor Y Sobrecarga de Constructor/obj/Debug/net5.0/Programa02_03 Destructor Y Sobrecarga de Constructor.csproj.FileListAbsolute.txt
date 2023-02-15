@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\bin\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\refint\Programa02_03 Destructor Y Sobrecarga de Constructor.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\Programa02_03 Destructor Y Sobrecarga de Constructor.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa02_03 Destructor Y Sobrecarga de Constructor\obj\Debug\net5.0\ref\Programa02_03 Destructor Y Sobrecarga de Constructor.dll

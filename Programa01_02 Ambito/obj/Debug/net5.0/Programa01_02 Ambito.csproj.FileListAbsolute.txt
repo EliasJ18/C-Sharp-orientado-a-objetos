@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\bin\Debug\net5.0\Programa01_02 Ambito.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\refint\Programa01_02 Ambito.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\Programa01_02 Ambito.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa01_02 Ambito\obj\Debug\net5.0\ref\Programa01_02 Ambito.dll

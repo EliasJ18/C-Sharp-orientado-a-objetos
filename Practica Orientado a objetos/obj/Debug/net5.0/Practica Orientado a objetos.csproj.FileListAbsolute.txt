@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\bin\Debug\net5.0\Practica Orientado a objetos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\refint\Practica Orientado a objetos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\Practica Orientado a objetos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Practica Orientado a objetos\obj\Debug\net5.0\ref\Practica Orientado a objetos.dll

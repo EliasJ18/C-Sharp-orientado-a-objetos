@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\bin\Debug\net5.0\Programa04_01 Herencias.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\refint\Programa04_01 Herencias.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\Programa04_01 Herencias.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa04_01 Herencias\obj\Debug\net5.0\ref\Programa04_01 Herencias.dll

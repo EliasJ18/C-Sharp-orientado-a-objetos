@@ -1,0 +1,16 @@
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.exe
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.deps.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.runtimeconfig.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.runtimeconfig.dev.json
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\bin\Debug\net5.0\Programa06_02 New en métodos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.AssemblyInfo.cs
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\refint\Programa06_02 New en métodos.dll
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.pdb
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\Programa06_02 New en métodos.genruntimeconfig.cache
+C:\Users\elian\source\repos\Nicosiored Orientado a objetos\Programa06_02 New en métodos\obj\Debug\net5.0\ref\Programa06_02 New en métodos.dll
